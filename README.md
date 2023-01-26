@@ -1,7 +1,7 @@
 
 # gudum
 
-An open source online music streaming and market place for Zimbabwe with ecocash payement system as well as ethereum
+An open source online music streaming and market place for Zimbabwe with ecocash payment system as well as ethereum
 ## API Reference
 
 #### Get all items
@@ -40,7 +40,7 @@ the project features is a learning initiative focused on mainly strengthening th
 
 - [@Tawanda Ndemera](https://www.github.com/fraud47)
 - [@Malvin Chihota](https://www.github.com/malvin_zw)
-- [@Shelton Shamhuyarira](https://www.github.com/fraud47)
+- [@Shelton Shamuyarira](https://www.github.com/sheltshamu)
 
 
 
